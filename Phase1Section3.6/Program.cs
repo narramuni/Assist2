@@ -63,6 +63,24 @@ namespace Phase1Section3._6
                 {
                     Console.WriteLine(i);
                 }
+
+                Console.WriteLine("Using foreach loop:");
+
+                string[] text = { "Hello", "Hii","Welcome","Programmer" };
+                foreach (string s in text)
+                {
+                    Console.WriteLine(  "Foreach loop through  an array: " +s);
+                }
+                string word = "Hello World";
+                //Check if the string contains a specific word
+                if (word.Contains("World"))
+                {
+                    Console.WriteLine("The string contains the word 'World'.");
+                }
+                else
+                {
+                    Console.WriteLine("The string does not contain the word 'World'.");
+                }
                 Console.ReadLine();
 
 
