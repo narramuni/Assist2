@@ -1,0 +1,7 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.csproj.AssemblyReference.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.csproj.CoreCompileInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\Phase1Section3.6\Phase1Section3.6\bin\Debug\Phase1Section3.6.exe.config
+C:\Users\SAI PAVAN KUMAR\source\repos\Phase1Section3.6\Phase1Section3.6\bin\Debug\Phase1Section3.6.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\Phase1Section3.6\Phase1Section3.6\bin\Debug\Phase1Section3.6.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.pdb
